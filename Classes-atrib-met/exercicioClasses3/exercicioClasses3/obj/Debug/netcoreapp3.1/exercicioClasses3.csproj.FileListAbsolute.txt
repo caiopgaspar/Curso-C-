@@ -1,0 +1,14 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\obj\Debug\netcoreapp3.1\exercicioClasses3.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\obj\Debug\netcoreapp3.1\exercicioClasses3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\obj\Debug\netcoreapp3.1\exercicioClasses3.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\obj\Debug\netcoreapp3.1\exercicioClasses3.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\obj\Debug\netcoreapp3.1\exercicioClasses3.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\bin\Debug\netcoreapp3.1\exercicioClasses3.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\bin\Debug\netcoreapp3.1\exercicioClasses3.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\bin\Debug\netcoreapp3.1\exercicioClasses3.runtimeconfig.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\bin\Debug\netcoreapp3.1\exercicioClasses3.runtimeconfig.dev.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\bin\Debug\netcoreapp3.1\exercicioClasses3.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\bin\Debug\netcoreapp3.1\exercicioClasses3.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\obj\Debug\netcoreapp3.1\exercicioClasses3.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\obj\Debug\netcoreapp3.1\exercicioClasses3.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioClasses3\exercicioClasses3\obj\Debug\netcoreapp3.1\exercicioClasses3.genruntimeconfig.cache

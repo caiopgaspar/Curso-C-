@@ -1,0 +1,14 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\bin\Debug\netcoreapp3.1\ExFixacaoClasses.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\bin\Debug\netcoreapp3.1\ExFixacaoClasses.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\bin\Debug\netcoreapp3.1\ExFixacaoClasses.runtimeconfig.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\bin\Debug\netcoreapp3.1\ExFixacaoClasses.runtimeconfig.dev.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\bin\Debug\netcoreapp3.1\ExFixacaoClasses.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\bin\Debug\netcoreapp3.1\ExFixacaoClasses.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\obj\Debug\netcoreapp3.1\ExFixacaoClasses.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\obj\Debug\netcoreapp3.1\ExFixacaoClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\obj\Debug\netcoreapp3.1\ExFixacaoClasses.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\obj\Debug\netcoreapp3.1\ExFixacaoClasses.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\obj\Debug\netcoreapp3.1\ExFixacaoClasses.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\obj\Debug\netcoreapp3.1\ExFixacaoClasses.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\obj\Debug\netcoreapp3.1\ExFixacaoClasses.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExFixacaoClasses\ExFixacaoClasses\obj\Debug\netcoreapp3.1\ExFixacaoClasses.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\bin\Debug\netcoreapp3.1\ExercicioEntrada2.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\bin\Debug\netcoreapp3.1\ExercicioEntrada2.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\bin\Debug\netcoreapp3.1\ExercicioEntrada2.runtimeconfig.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\bin\Debug\netcoreapp3.1\ExercicioEntrada2.runtimeconfig.dev.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\bin\Debug\netcoreapp3.1\ExercicioEntrada2.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\bin\Debug\netcoreapp3.1\ExercicioEntrada2.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\obj\Debug\netcoreapp3.1\ExercicioEntrada2.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\obj\Debug\netcoreapp3.1\ExercicioEntrada2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\obj\Debug\netcoreapp3.1\ExercicioEntrada2.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\obj\Debug\netcoreapp3.1\ExercicioEntrada2.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\obj\Debug\netcoreapp3.1\ExercicioEntrada2.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\obj\Debug\netcoreapp3.1\ExercicioEntrada2.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\obj\Debug\netcoreapp3.1\ExercicioEntrada2.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExercicioEntrada2\ExercicioEntrada2\obj\Debug\netcoreapp3.1\ExercicioEntrada2.genruntimeconfig.cache

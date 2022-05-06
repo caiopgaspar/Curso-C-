@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exercicioListas1/1.0.0": {
+        "runtime": {
+          "exercicioListas1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicioListas1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

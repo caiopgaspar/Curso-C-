@@ -1,0 +1,14 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\bin\Debug\netcoreapp3.1\ExemploEntrada.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\bin\Debug\netcoreapp3.1\ExemploEntrada.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\bin\Debug\netcoreapp3.1\ExemploEntrada.runtimeconfig.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\bin\Debug\netcoreapp3.1\ExemploEntrada.runtimeconfig.dev.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\bin\Debug\netcoreapp3.1\ExemploEntrada.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\bin\Debug\netcoreapp3.1\ExemploEntrada.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\obj\Debug\netcoreapp3.1\ExemploEntrada.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\obj\Debug\netcoreapp3.1\ExemploEntrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\obj\Debug\netcoreapp3.1\ExemploEntrada.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\obj\Debug\netcoreapp3.1\ExemploEntrada.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\obj\Debug\netcoreapp3.1\ExemploEntrada.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\obj\Debug\netcoreapp3.1\ExemploEntrada.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\obj\Debug\netcoreapp3.1\ExemploEntrada.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExemploEntrada\ExemploEntrada\obj\Debug\netcoreapp3.1\ExemploEntrada.genruntimeconfig.cache

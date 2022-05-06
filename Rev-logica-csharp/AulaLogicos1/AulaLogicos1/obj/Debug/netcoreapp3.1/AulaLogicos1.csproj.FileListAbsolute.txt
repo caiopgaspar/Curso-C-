@@ -1,0 +1,14 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\bin\Debug\netcoreapp3.1\AulaLogicos1.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\bin\Debug\netcoreapp3.1\AulaLogicos1.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\bin\Debug\netcoreapp3.1\AulaLogicos1.runtimeconfig.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\bin\Debug\netcoreapp3.1\AulaLogicos1.runtimeconfig.dev.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\bin\Debug\netcoreapp3.1\AulaLogicos1.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\bin\Debug\netcoreapp3.1\AulaLogicos1.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\obj\Debug\netcoreapp3.1\AulaLogicos1.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\obj\Debug\netcoreapp3.1\AulaLogicos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\obj\Debug\netcoreapp3.1\AulaLogicos1.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\obj\Debug\netcoreapp3.1\AulaLogicos1.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\obj\Debug\netcoreapp3.1\AulaLogicos1.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\obj\Debug\netcoreapp3.1\AulaLogicos1.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\obj\Debug\netcoreapp3.1\AulaLogicos1.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaLogicos1\AulaLogicos1\obj\Debug\netcoreapp3.1\AulaLogicos1.genruntimeconfig.cache

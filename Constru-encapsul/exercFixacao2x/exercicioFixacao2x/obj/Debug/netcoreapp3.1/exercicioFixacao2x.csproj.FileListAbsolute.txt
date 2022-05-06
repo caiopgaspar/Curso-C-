@@ -1,0 +1,14 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\obj\Debug\netcoreapp3.1\exercicioFixacao2x.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\obj\Debug\netcoreapp3.1\exercicioFixacao2x.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\obj\Debug\netcoreapp3.1\exercicioFixacao2x.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\obj\Debug\netcoreapp3.1\exercicioFixacao2x.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\obj\Debug\netcoreapp3.1\exercicioFixacao2x.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\bin\Debug\netcoreapp3.1\exercicioFixacao2x.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\bin\Debug\netcoreapp3.1\exercicioFixacao2x.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\bin\Debug\netcoreapp3.1\exercicioFixacao2x.runtimeconfig.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\bin\Debug\netcoreapp3.1\exercicioFixacao2x.runtimeconfig.dev.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\bin\Debug\netcoreapp3.1\exercicioFixacao2x.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\bin\Debug\netcoreapp3.1\exercicioFixacao2x.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\obj\Debug\netcoreapp3.1\exercicioFixacao2x.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\obj\Debug\netcoreapp3.1\exercicioFixacao2x.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\exercicioFixacao2x\exercicioFixacao2x\obj\Debug\netcoreapp3.1\exercicioFixacao2x.genruntimeconfig.cache

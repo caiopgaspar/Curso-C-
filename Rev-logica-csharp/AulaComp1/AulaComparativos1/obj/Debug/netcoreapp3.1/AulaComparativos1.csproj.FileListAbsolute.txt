@@ -1,0 +1,14 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\bin\Debug\netcoreapp3.1\AulaComparativos1.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\bin\Debug\netcoreapp3.1\AulaComparativos1.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\bin\Debug\netcoreapp3.1\AulaComparativos1.runtimeconfig.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\bin\Debug\netcoreapp3.1\AulaComparativos1.runtimeconfig.dev.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\bin\Debug\netcoreapp3.1\AulaComparativos1.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\bin\Debug\netcoreapp3.1\AulaComparativos1.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\obj\Debug\netcoreapp3.1\AulaComparativos1.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\obj\Debug\netcoreapp3.1\AulaComparativos1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\obj\Debug\netcoreapp3.1\AulaComparativos1.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\obj\Debug\netcoreapp3.1\AulaComparativos1.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\obj\Debug\netcoreapp3.1\AulaComparativos1.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\obj\Debug\netcoreapp3.1\AulaComparativos1.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\obj\Debug\netcoreapp3.1\AulaComparativos1.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\AulaComparativos1\AulaComparativos1\obj\Debug\netcoreapp3.1\AulaComparativos1.genruntimeconfig.cache
