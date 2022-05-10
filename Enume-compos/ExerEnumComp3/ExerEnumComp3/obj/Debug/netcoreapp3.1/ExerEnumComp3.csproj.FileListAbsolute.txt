@@ -1,0 +1,14 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\bin\Debug\netcoreapp3.1\ExerEnumComp3.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\bin\Debug\netcoreapp3.1\ExerEnumComp3.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\bin\Debug\netcoreapp3.1\ExerEnumComp3.runtimeconfig.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\bin\Debug\netcoreapp3.1\ExerEnumComp3.runtimeconfig.dev.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\bin\Debug\netcoreapp3.1\ExerEnumComp3.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\bin\Debug\netcoreapp3.1\ExerEnumComp3.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\obj\Debug\netcoreapp3.1\ExerEnumComp3.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\obj\Debug\netcoreapp3.1\ExerEnumComp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\obj\Debug\netcoreapp3.1\ExerEnumComp3.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\obj\Debug\netcoreapp3.1\ExerEnumComp3.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\obj\Debug\netcoreapp3.1\ExerEnumComp3.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\obj\Debug\netcoreapp3.1\ExerEnumComp3.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\obj\Debug\netcoreapp3.1\ExerEnumComp3.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerEnumComp3\ExerEnumComp3\obj\Debug\netcoreapp3.1\ExerEnumComp3.genruntimeconfig.cache
