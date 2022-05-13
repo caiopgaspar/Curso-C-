@@ -1,0 +1,14 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\bin\Debug\netcoreapp3.1\aulaMetAbst.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\bin\Debug\netcoreapp3.1\aulaMetAbst.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\bin\Debug\netcoreapp3.1\aulaMetAbst.runtimeconfig.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\bin\Debug\netcoreapp3.1\aulaMetAbst.runtimeconfig.dev.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\bin\Debug\netcoreapp3.1\aulaMetAbst.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\bin\Debug\netcoreapp3.1\aulaMetAbst.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\obj\Debug\netcoreapp3.1\aulaMetAbst.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\obj\Debug\netcoreapp3.1\aulaMetAbst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\obj\Debug\netcoreapp3.1\aulaMetAbst.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\obj\Debug\netcoreapp3.1\aulaMetAbst.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\obj\Debug\netcoreapp3.1\aulaMetAbst.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\obj\Debug\netcoreapp3.1\aulaMetAbst.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\obj\Debug\netcoreapp3.1\aulaMetAbst.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\aulaMetAbst\aulaMetAbst\obj\Debug\netcoreapp3.1\aulaMetAbst.genruntimeconfig.cache

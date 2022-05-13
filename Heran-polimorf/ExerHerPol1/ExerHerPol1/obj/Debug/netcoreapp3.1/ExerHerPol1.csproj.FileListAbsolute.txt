@@ -1,0 +1,14 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\bin\Debug\netcoreapp3.1\ExerHerPol1.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\bin\Debug\netcoreapp3.1\ExerHerPol1.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\bin\Debug\netcoreapp3.1\ExerHerPol1.runtimeconfig.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\bin\Debug\netcoreapp3.1\ExerHerPol1.runtimeconfig.dev.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\bin\Debug\netcoreapp3.1\ExerHerPol1.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\bin\Debug\netcoreapp3.1\ExerHerPol1.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\obj\Debug\netcoreapp3.1\ExerHerPol1.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\obj\Debug\netcoreapp3.1\ExerHerPol1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\obj\Debug\netcoreapp3.1\ExerHerPol1.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\obj\Debug\netcoreapp3.1\ExerHerPol1.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\obj\Debug\netcoreapp3.1\ExerHerPol1.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\obj\Debug\netcoreapp3.1\ExerHerPol1.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\obj\Debug\netcoreapp3.1\ExerHerPol1.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerHerPol1\ExerHerPol1\obj\Debug\netcoreapp3.1\ExerHerPol1.genruntimeconfig.cache

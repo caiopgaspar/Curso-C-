@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExerHerPol2/1.0.0": {
+        "runtime": {
+          "ExerHerPol2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExerHerPol2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

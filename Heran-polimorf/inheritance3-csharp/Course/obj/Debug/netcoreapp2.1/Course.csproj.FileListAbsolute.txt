@@ -1,0 +1,13 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\Heran-polimorf\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.genruntimeconfig.cache

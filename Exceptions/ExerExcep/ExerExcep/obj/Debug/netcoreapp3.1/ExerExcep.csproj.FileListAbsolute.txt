@@ -1,0 +1,14 @@
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\bin\Debug\netcoreapp3.1\ExerExcep.exe
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\bin\Debug\netcoreapp3.1\ExerExcep.deps.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\bin\Debug\netcoreapp3.1\ExerExcep.runtimeconfig.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\bin\Debug\netcoreapp3.1\ExerExcep.runtimeconfig.dev.json
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\bin\Debug\netcoreapp3.1\ExerExcep.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\bin\Debug\netcoreapp3.1\ExerExcep.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\obj\Debug\netcoreapp3.1\ExerExcep.csproj.AssemblyReference.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\obj\Debug\netcoreapp3.1\ExerExcep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\obj\Debug\netcoreapp3.1\ExerExcep.AssemblyInfoInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\obj\Debug\netcoreapp3.1\ExerExcep.AssemblyInfo.cs
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\obj\Debug\netcoreapp3.1\ExerExcep.csproj.CoreCompileInputs.cache
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\obj\Debug\netcoreapp3.1\ExerExcep.dll
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\obj\Debug\netcoreapp3.1\ExerExcep.pdb
+C:\Users\c-gas\OneDrive\Documentos\DEV\Curso C# Completo programacao orientada a objetos e projetos\ws-vs2022\ExerExcep\ExerExcep\obj\Debug\netcoreapp3.1\ExerExcep.genruntimeconfig.cache
